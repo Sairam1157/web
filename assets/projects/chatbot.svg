@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#f0f0f0"/>
+  
+  <!-- Chat bubbles -->
+  <rect x="80" y="50" width="120" height="40" rx="15" fill="#E1E1E1"/>
+  <text x="140" y="75" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">How can I help you?</text>
+  
+  <rect x="200" y="100" width="120" height="40" rx="15" fill="#6c63ff" opacity="0.8"/>
+  <text x="260" y="125" font-family="Arial" font-size="10" text-anchor="middle" fill="white">I need product info</text>
+  
+  <rect x="80" y="150" width="120" height="40" rx="15" fill="#E1E1E1"/>
+  <text x="140" y="170" font-family="Arial" font-size="8" text-anchor="middle" fill="#333">Here are our latest products...</text>
+  
+  <!-- Robot icon -->
+  <circle cx="50" cy="70" r="20" fill="#6c63ff" opacity="0.8"/>
+  <rect x="40" y="65" width="20" height="10" fill="white"/>
+  <circle cx="45" cy="70" r="2" fill="#6c63ff"/>
+  <circle cx="55" cy="70" r="2" fill="#6c63ff"/>
+  
+  <!-- User icon -->
+  <circle cx="350" cy="120" r="20" fill="#FF6584" opacity="0.8"/>
+  <circle cx="350" cy="115" r="7" fill="white"/>
+  <path d="M340,130 Q350,140 360,130" fill="white"/>
+  
+  <!-- Text -->
+  <text x="200" y="30" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">Customer Service Chatbot</text>
+</svg>

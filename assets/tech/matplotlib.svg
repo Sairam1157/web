@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="10" fill="#f0f0f0"/>
+  <path d="M25,70 L75,70" stroke="#11557C" stroke-width="2"/>
+  <path d="M25,70 L25,30 L35,50 L45,35 L55,55 L65,40 L75,30 L75,70" fill="none" stroke="#11557C" stroke-width="3"/>
+  <circle cx="35" cy="50" r="3" fill="#11557C"/>
+  <circle cx="45" cy="35" r="3" fill="#11557C"/>
+  <circle cx="55" cy="55" r="3" fill="#11557C"/>
+  <circle cx="65" cy="40" r="3" fill="#11557C"/>
+  <text x="50" y="85" font-family="Arial" font-size="8" text-anchor="middle" fill="#333">Matplotlib</text>
+</svg>
