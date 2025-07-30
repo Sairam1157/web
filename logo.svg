@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <!-- Background Shape -->
+  <rect x="0" y="10" width="50" height="40" rx="5" fill="#6c63ff" />
+  
+  <!-- ML Text -->
+  <text x="15" y="38" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white">ML</text>
+  
+  <!-- Developer Text -->
+  <text x="60" y="38" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#333">Developer</text>
+  
+  <!-- Decorative Elements -->
+  <circle cx="180" cy="30" r="8" fill="#ff6584" />
+  <rect x="160" y="25" width="15" height="3" rx="1" fill="#4a45b1" />
+  <rect x="160" y="32" width="15" height="3" rx="1" fill="#4a45b1" />
+</svg>
